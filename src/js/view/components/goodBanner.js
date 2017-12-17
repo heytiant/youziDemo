@@ -13,15 +13,15 @@ export default React.createClass({
 				<Link to={{pathname:"temai"}} activeClassName="activeitem">全部</Link>
 			</li>
 			<li>
-				<Link to={{pathname:"temai"}}  >柜具</Link>
+				<Link to={{pathname:"temai"}}  >柜具提交代码</Link>
 				
 			</li>
 			<li>
-                	<Link to={{pathname:"temai"}}  >椅类</Link>
+                	<Link to={{pathname:"temai"}}  >椅类提交代码</Link>
 			
 			</li>
 			<li>
-                	<Link to={{pathname:"temai"}} >沙发</Link>
+                	<Link to={{pathname:"temai"}} >沙发提交代码</Link>
 			
 			</li>
 			<li>
