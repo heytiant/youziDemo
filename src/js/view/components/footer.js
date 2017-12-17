@@ -12,21 +12,21 @@ export default React.createClass({
 			<li>	
 			<Link to={{pathname:"home"}}  activeClassName="active">
 			<span className=" iconfont icon-fangzi"></span>
-			<div>精选</div>
+			<div>精选1112222333</div>
 			</Link>	
 			</li>
 			
 			<li>	
 			<Link to={{pathname:"find"}} activeClassName="active">
 			<span className="iconfont icon-shuben"></span>
-			<div>发现</div>
+			<div>发现222</div>
 			</Link>	
 			</li>
 			
 			<li>	
 			<Link to={{pathname:"temai"}}  activeClassName="active">
 			<span className="iconfont icon-suo1"></span>
-			<div>特卖</div>
+			<div>特卖6666</div>
 			</Link>	
 			</li>
 			
