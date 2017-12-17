@@ -13,7 +13,7 @@ export default  React.createClass({
 			<Link   onTouchStart={this.goback} >
 			<i className="iconfont icon-jiantou21"></i>
 			</Link>
-			<span>获取验证码</span>
+			<span>获取验证码888888888888888888888888888888888866666666666000000</span>
 		    </div>
 		
             )
