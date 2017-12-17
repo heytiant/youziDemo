@@ -7,7 +7,7 @@ export default React.createClass({
 
         return(
              <div>
-                这是收货地址的页面!!!!
+                这是收货地址的页面!!!!222222222222222222222222222666666666666
 
              </div>
 
