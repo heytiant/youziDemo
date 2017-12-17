@@ -17,7 +17,7 @@ export default React.createClass({
 				
 			</li>
 			<li>
-                	<Link to={{pathname:"temai"}}  >123椅类提交代码</Link>
+                	<Link to={{pathname:"temai"}}  >啧啧啧啧啧啧做做做做做做做做123椅类提交代码</Link>
 			
 			</li>
 			<li>
