@@ -40,7 +40,7 @@ export default React.createClass({
 			<li>	
 			<Link to={{pathname:"mine"}}  activeClassName="active">
 			<span className="iconfont icon-iconzhenghe31"></span>
-			<div>我的</div>
+			<div>我的66666</div>
 			</Link>	
 			</li>
 				
