@@ -13,7 +13,7 @@ export default React.createClass({
 				<Link to={{pathname:"temai"}} activeClassName="activeitem">全部</Link>
 			</li>
 			<li>
-				<Link to={{pathname:"temai"}}  >123柜具提交代码</Link>
+				<Link to={{pathname:"temai"}}  >7777777777777777777777888888888888999999999999999123柜具提交代码</Link>
 				
 			</li>
 			<li>
